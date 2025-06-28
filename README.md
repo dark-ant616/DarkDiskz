@@ -34,3 +34,7 @@ Install requirements:
 sudo apt install python3-gi gir1.2-gtk-4.0 bcache-tools mdadm smartmontools
 
 
+#nstall all these 
+sudo apt update && sudo apt install -y python3-gi gir1.2-gtk-4.0 bcache-tools mdadm smartmontools
+pip install PyGObject
+python3 darkdiskz/main.py
