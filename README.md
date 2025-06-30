@@ -14,6 +14,7 @@ DarkDiskz is an open-source, Linux-native disk management GUI focused on:
 - Create and manage simple RAID arrays
 - Auto-generate fstab entries
 - Modern, simple UI
+- Disk read/Write benchmarking
 
 **License:** GPLv3
 
