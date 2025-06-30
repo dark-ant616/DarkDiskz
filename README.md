@@ -17,6 +17,8 @@ DarkDiskz is an open-source, Linux-native disk management GUI focused on:
 - Disk read/Write benchmarking
 
 **License:** GPLv3
+![image](https://github.com/user-attachments/assets/f008f01a-b2d5-4d8b-a115-e5f5e2c00618)
+
 
 ## Getting Started
 
@@ -66,6 +68,7 @@ Open an issue or submit a pull request on GitHub.
 
 ---
 ![image](https://github.com/user-attachments/assets/0de26a47-5815-45b8-9ea6-e8d14bdb4675)
+
 
 ## Credits
 
