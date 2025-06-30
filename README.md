@@ -45,5 +45,28 @@ DarkDiskz is an open-source, Linux-native disk management GUI focused on:
 - pyudev>=0.22
 
 - pip install -r requirements.txt
+  
+## Usage
 
+- All destructive actions (format, wipe, RAID creation) require confirmation and will prompt for your password in a terminal window.
+- The app is designed to be safe, but **always back up your data** before making changes to drives.
 
+## Contributing
+
+Contributions, bug reports, and feature requests are welcome!  
+Open an issue or submit a pull request on GitHub.
+
+---
+
+## Troubleshooting
+
+- If you see errors about missing GTK or Adwaita, make sure you installed all system dependencies.
+- If you have issues with hotplug detection, ensure `pyudev` is installed and your user has appropriate permissions.
+- For advanced troubleshooting, run the app from a terminal to see debug output.
+
+---
+
+## Credits
+
+Created by dark_ant.  
+Inspired by the need for a modern, open-source Linux disk management tool.
