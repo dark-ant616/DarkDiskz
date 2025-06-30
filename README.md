@@ -65,6 +65,7 @@ Open an issue or submit a pull request on GitHub.
 - For advanced troubleshooting, run the app from a terminal to see debug output.
 
 ---
+![image](https://github.com/user-attachments/assets/0de26a47-5815-45b8-9ea6-e8d14bdb4675)
 
 ## Credits
 
