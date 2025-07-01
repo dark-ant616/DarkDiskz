@@ -21,26 +21,9 @@ DarkDiskz is an open-source, Linux-native disk management GUI focused on:
 
 
 ## Getting Started
+- chmod +x install_deps.sh
+./install_deps.sh
 
-### Dependencies
-- Full Installation Requirements
-- System Packages (Ubuntu/Debian)
-- Install these with sudo apt install ...:
-- python3 (Python 3.8+)
-- python3-gi (Python GObject Introspection bindings)
-- python3-gi-cairo (for some graphics support)
-- gir1.2-gtk-4.0 (GTK4 bindings)
-- gir1.2-adw-1 (libadwaita bindings)
-- bcache-tools (for bcache support)
-- mdadm (for RAID support)
-- smartmontools (for SMART/drive health)
-- wipefs (for drive wiping)
-- lsb-release (for system info)
-- lshw (for hardware info, optional)
-- lsblk (should be present by default)
-- lspci (for GPU info, optional)
-- udev (should be present by default)
-- xterm or gnome-terminal or another terminal emulator (for privileged commands)
 
 - Python Packages (install with pip)
 - PyGObject>=3.40
