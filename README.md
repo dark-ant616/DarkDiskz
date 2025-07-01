@@ -23,12 +23,6 @@ DarkDiskz is an open-source, Linux-native disk management GUI focused on:
 ## Getting Started
 - chmod +x install_deps.sh
 ./install_deps.sh
-
-
-- Python Packages (install with pip)
-- PyGObject>=3.40
-- pyudev>=0.22
-
 - pip install -r requirements.txt
   
 ## Usage
